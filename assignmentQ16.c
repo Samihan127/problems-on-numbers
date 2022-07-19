@@ -1,4 +1,4 @@
-//accept number from user and display its multiplication iof factors
+//accept number from user and display its multiplication of factors
 //input:12
 //output:144  (1*2*3*4*6)
 #include<stdio.h>
